@@ -1,2 +1,3 @@
 # WinFXNet-SchEl
-WinFXNet by Schneider Electric
+WinFXNet от Schneider Electric (ESMI).
+Пока только установщик, остальное после.
